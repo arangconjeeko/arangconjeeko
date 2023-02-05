@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python HTML & CSS, Javascript
+Languages:
+Python, HTML & CSS, Javascript, SQL
 
-BootStrap, Express.js, React.js, Node.js, PsotgreSQL
+BootStrap, Express.js, React.js, Node.js, PostgreSQL

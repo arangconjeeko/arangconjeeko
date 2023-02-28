@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 Languages:
 Python, HTML & CSS, Javascript, SQL
 
-BootStrap, Express.js, React.js, Node.js, PostgreSQL
+Techs:
+BootStrap, TailwindCSS, Express.js, React.js, Node.js, PostgreSQL,
+
+Deployments:
+Gitbash Cloudflare & Vercel

@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 Languages:
-Python, HTML & CSS, Javascript, SQL
+Python, HTML & CSS, Javascript, MySQL
 
-Techs:
-BootStrap, TailwindCSS, Express.js, React.js, Node.js, PostgreSQL,
+Frameworks:
+BootStrap, TailwindCSS, Express.js, PostgreSQL,
 
-Deployments:
-Gitbash Cloudflare & Vercel
+Techs & Tools:
+VSCode, Node.js, React.js Gitbash Cloudflare & Vercel
+
+Dream

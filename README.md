@@ -23,5 +23,3 @@ BootStrap, TailwindCSS, Express.js, PostgreSQL,
 
 Techs & Tools:
 VSCode, Node.js, React.js Gitbash Cloudflare & Vercel
-
-Dream
